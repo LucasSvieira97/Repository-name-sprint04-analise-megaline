@@ -36,7 +36,7 @@ sprint04-analise-megaline/
 
 ## ▶️ Como visualizar
 
-👉 [Abrir no Google Colab](https://colab.research.google.com/github/LucasSvieira97/Repository-name-sprint04-analise-megaline/blob/main/notebook.ipynb) 
+👉 [Abrir no Google Colab](https://colab.research.google.com/github/LucasSvieira97/Repository-name-sprint04-analise-megaline/blob/main/notebook_04.ipynb) 
 
 ## 📌 Resultado
 
